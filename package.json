@@ -1,0 +1,14 @@
+{
+  "name": "practice-03",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=/practice-03/",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^5.2.11"
+  }
+}
